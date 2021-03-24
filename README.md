@@ -1,3 +1,8 @@
+Aim: download contents from one Assana account and upload it to another asana account.
+
+# Getting token:
+Go here https://app.asana.com/0/developer-console, generate token
+
 # Example usage:
    asl = AsanaLoader(token = '1/777777777777777:abcdefghijklmnopqrstuvwxyz')
 
